@@ -2,8 +2,8 @@ class Colonsh < Formula
   desc "A command-line alias manager and utility tool written in Go."
   homepage "https://github.com/stephenbaidu/colonsh" 
   
-  url "https://github.com/stephenbaidu/colonsh/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "ce873141b4691b3db0e3c6221d01c64fcc3d44bae423811164b6c7c99b2dd4dd" 
+  url "https://github.com/stephenbaidu/colonsh/archive/refs/tags/v0.0.3.tar.gz"
+  sha256 "5fe783219bfcda27c8906bdf9e2ab739173bf14b878b66daf3099abece4229ce" 
 
   license "MIT"
   
